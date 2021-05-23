@@ -11,5 +11,5 @@ Implement a ReactJS App using Material UI library for Employee Registration with
 
 [video](https://drive.google.com/drive/folders/1K18g7h5lH8O4-DoVaFtPEddlcJD_bXD0?usp=sharing)
 
-- You can use local storage to store the employee records
+- You have to use Firebase as the backend.
 
